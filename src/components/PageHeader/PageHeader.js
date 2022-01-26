@@ -36,7 +36,7 @@ export default function PageHeader() {
           <h3 className="d-none d-sm-block">
           <strike> 
             We do things that make us cool and rich with law 😎
-            We may be smart 🧠, but we are successful because everyone else is dumb.
+            We may be smart 🧠, but we are successful because everyone else is lazy.
             </strike>
           </h3>
         </div>
