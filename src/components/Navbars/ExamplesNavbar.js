@@ -71,7 +71,7 @@ export default function ExamplesNavbar() {
         <div className="navbar-translate">
           <NavbarBrand to="/" id="navbar-brand" tag={Link}>
             <span>IusTech </span>
-            Make the world lawtomatic
+            {/* Make the world lawtomatic */}
           </NavbarBrand>
           {/* <UncontrolledTooltip placement="bottom" target="navbar-brand">
             Designed and Coded by Creative Tim

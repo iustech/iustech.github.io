@@ -16,17 +16,17 @@
 
 */
 import React from "react";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 // reactstrap components
 import {
-  Button,
-  NavItem,
-  NavLink,
-  Nav,
+  // Button,
+  // NavItem,
+  // NavLink,
+  // Nav,
   Container,
   Row,
   Col,
-  UncontrolledTooltip,
+  // UncontrolledTooltip,
 } from "reactstrap";
 
 export default function Footer() {
@@ -35,9 +35,14 @@ export default function Footer() {
       <Container>
         <Row>
           <Col md="3">
-            <h1 className="title">BLK•</h1>
+            <h1 className="title">IusTech</h1>
+            <p>London - Convent Garden</p>
+             71-75 SHELTON STREET <br/>
+             GREATER LONDON <br/>
+             WC2H 9JQ <br/>
+             UNITED KINGDOM <br/> 
           </Col>
-          <Col md="3">
+          {/* <Col md="3">
             <Nav>
               <NavItem>
                 <NavLink to="/" tag={Link}>
@@ -125,7 +130,7 @@ export default function Footer() {
                 Follow us
               </UncontrolledTooltip>
             </div>
-          </Col>
+          </Col> */}
         </Row>
       </Container>
     </footer>

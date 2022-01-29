@@ -34,10 +34,7 @@ export default function PageHeader() {
         <div className="content-center brand">
           <h1 className="h1-seo">IusTech</h1>
           <h3 className="d-none d-sm-block">
-          <strike> 
-            We do things that make us cool and rich with law 😎
-            We may be smart 🧠, but we are successful because everyone else is lazy.
-            </strike>
+              We are here to disrupt legal and financial services
           </h3>
         </div>
       </Container>

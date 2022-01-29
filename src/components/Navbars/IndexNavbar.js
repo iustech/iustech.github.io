@@ -27,8 +27,8 @@ import {
   // UncontrolledDropdown,
   NavbarBrand,
   Navbar,
-  NavItem,
-  NavLink,
+  // NavItem,
+  // NavLink,
   Nav,
   Container,
   // Row,
@@ -80,7 +80,7 @@ export default function IndexNavbar() {
         <div className="navbar-translate">
           <NavbarBrand to="/" tag={Link} id="navbar-brand">
             <span>IUS Tech </span>
-            Make the world lawtomatic
+            {/* Make the world lawtomatic */}
           </NavbarBrand>
 
           <button
@@ -119,7 +119,7 @@ export default function IndexNavbar() {
             </Row>
           </div> */}
           <Nav navbar>
-            <NavItem className="p-0">
+            {/* <NavItem className="p-0">
               <NavLink
                 data-placement="bottom"
                 href="https://twitter.com/CreativeTim"
@@ -154,7 +154,7 @@ export default function IndexNavbar() {
                 <i className="fab fa-instagram" />
                 <p className="d-lg-none d-xl-none">Instagram</p>
               </NavLink>
-            </NavItem>
+            </NavItem> */}
             {/* <UncontrolledDropdown nav>
               <DropdownToggle
                 caret
