@@ -13,9 +13,12 @@ export default function About() {
         <Row>
           <Col md="6" className="offset-md-3 text-justify" >
             <h4>
-              Iustech, a legal and financial software house, is part of IusTechnology Ltd Group.
-              We build products that utilize the most advanced data analysis? as well as new technologies like AI and Blockchain to revolutionize how things are done.
-              We assist individuals, businesses as well as authorities by offering high quality legal and financial services with high professional expertise, easily and cost-effective.
+              Iustech, a legal and financial software house, is part of Ius Technology Ltd Group.
+              We are delivering powerful products that use the most advanced analytics and technology, like Blockchain, to revolutionise the way our customers work and do things. 
+              We assist individuals, businesses as well as authorities by offering high quality services that create value, are easy to use and cost-effective.     
+              
+              We are privileged to work in a field that has a high purpose. We believe that democratise legal and financial services is vital to build a truly prosperity society. 
+    
               <br />
               <br />
             </h4>
@@ -44,7 +47,7 @@ export default function About() {
             <p className="text-justify">
               Olga is a Lawyer with a wide international experience. She holds a Master in Business & Corporate Law from Luiss university in Rome and a LL.M in International and American Law from the Temple University in Philadelphia.
               She was Legal Counsel in SACE, the Italian Export Credit Agency. Additionally, she gained valuable experience as Legal and Corporate Consultant in International Law Firms.
-              She believes in a world in which technology is at the service of people and businesses.
+              She believes in a world where technology is at the service of people and businesses.
             </p>
           </Col>
           <Col className="" sm="4" md="4" xs="4">
@@ -57,7 +60,7 @@ export default function About() {
 
             <h3 className="text-center text-justify">Gaetano Mondelli</h3>
             <p className="text-justify">
-              Gaetano is a Software Engineer and blockchain expert. He has extensive experience working with Fortune 500 companies like Dyson and Amazon. He invented a protocol to solve the problem of blockchains’ intercommunication. This protocol is used now by a 4B$ market cap token.
+              Gaetano is a Software Engineer and blockchain expert. He has extensive experience working with Fortune 500 companies like Dyson and Amazon. He invented a protocol to solve the blockchains’ intercommunication problem. This protocol is currently used by a 4B$ market cap token.
               His mission is to participate in high impact, meaningful projects that aim at empowering people.
             </p>
           </Col>
@@ -156,7 +159,7 @@ export default function About() {
           <Col md="6" className="offset-md-3 text-justify" >
             <h4>
               <ul>
-                <li>Automatic crypto-tax calculation. Find out more about Cybertax</li>
+                <li>Automatic crypto-tax calculation. Find out more about Cybertax </li>
                 <li>Contract automation </li>
                 <li>Predictive analysis </li>
               </ul>
