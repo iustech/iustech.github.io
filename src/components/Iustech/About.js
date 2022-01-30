@@ -6,7 +6,7 @@ import { Container, Row, Col } from "reactstrap";
 export default function About() {
   return (
     <Container>
-      <h3 className="title">Vision</h3>
+      <h3 className="title">About</h3>
       <br />
       <br />
       <div id="typography">
