@@ -1,5 +1,5 @@
 name: Autocloser
-on: [issues]
+on: [issues, workflow_dispatch]
 jobs:
   autoclose:
     runs-on: ubuntu-latest
