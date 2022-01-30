@@ -13,7 +13,7 @@ export default function About() {
         <Row>
           <Col md="6" className="offset-md-3 text-justify" >
             <h4>
-              Iustech, a legal and financial software house, is part of IusTechnology ltd group.
+              Iustech, a legal and financial software house, is part of IusTechnology Ltd Group.
               We build products that utilize the most advanced data analysis? as well as new technologies like AI and Blockchain to revolutionize how things are done.
               We assist individuals, businesses as well as authorities by offering high quality legal and financial services with high professional expertise, easily and cost-effective.
               <br />
