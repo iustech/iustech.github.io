@@ -35,8 +35,8 @@ export default function Footer() {
       <Container>
         <Row>
           <Col md="3">
-            <h1 className="title">IusTech</h1>
-            <p>London - Convent Garden</p>
+            <h1 className="title">Iustech</h1>
+            <p>London - Covent Garden</p>
              71-75 SHELTON STREET <br/>
              GREATER LONDON <br/>
              WC2H 9JQ <br/>
