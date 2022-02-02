@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.ca39c510.chunk.css",
-    "main.js": "/static/js/main.76338eba.chunk.js",
-    "main.js.map": "/static/js/main.76338eba.chunk.js.map",
+    "main.js": "/static/js/main.75f535d8.chunk.js",
+    "main.js.map": "/static/js/main.75f535d8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a7d69cc0.js",
     "runtime-main.js.map": "/static/js/runtime-main.a7d69cc0.js.map",
     "static/js/2.724c02c0.chunk.js": "/static/js/2.724c02c0.chunk.js",
@@ -10,7 +10,7 @@
     "index.html": "/index.html",
     "static/css/main.ca39c510.chunk.css.map": "/static/css/main.ca39c510.chunk.css.map",
     "static/js/2.724c02c0.chunk.js.LICENSE.txt": "/static/js/2.724c02c0.chunk.js.LICENSE.txt",
-    "static/js/main.76338eba.chunk.js.LICENSE.txt": "/static/js/main.76338eba.chunk.js.LICENSE.txt",
+    "static/js/main.75f535d8.chunk.js.LICENSE.txt": "/static/js/main.75f535d8.chunk.js.LICENSE.txt",
     "static/media/bitcoin.png": "/static/media/bitcoin.47422bea.png",
     "static/media/blob.png": "/static/media/blob.e3950678.png",
     "static/media/cercuri.png": "/static/media/cercuri.05cc0d04.png",
@@ -39,6 +39,6 @@
     "static/js/runtime-main.a7d69cc0.js",
     "static/js/2.724c02c0.chunk.js",
     "static/css/main.ca39c510.chunk.css",
-    "static/js/main.76338eba.chunk.js"
+    "static/js/main.75f535d8.chunk.js"
   ]
 }
