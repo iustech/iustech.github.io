@@ -79,7 +79,7 @@ export default function IndexNavbar() {
       <Container>
         <div className="navbar-translate">
           <NavbarBrand to="/" tag={Link} id="navbar-brand">
-            <span>IUS Tech </span>
+            <span> <img src="Logo.JPEG" width="130" height="100"> </span>
             {/* Make the world lawtomatic */}
           </NavbarBrand>
 
